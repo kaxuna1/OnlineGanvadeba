@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineGanvadeba", "OnlineGanvadeba\OnlineGanvadeba.csproj", "{A01722C7-DEC6-4B51-8570-B98E8CF4B45E}"
 EndProject
 Global
@@ -13,5 +14,11 @@ Global
 		{A01722C7-DEC6-4B51-8570-B98E8CF4B45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A01722C7-DEC6-4B51-8570-B98E8CF4B45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A01722C7-DEC6-4B51-8570-B98E8CF4B45E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2734A6F3-EADB-4611-B0A6-7200738D58E6}
 	EndGlobalSection
 EndGlobal
